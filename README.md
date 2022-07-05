@@ -1,2 +1,4 @@
 # JieJerryLiu.github.io
-# please find three projects.
+## You can find three project in the folder.
+
+### Project 
