@@ -1,5 +1,10 @@
 # JieJerryLiu.github.io
-
+# Please find code for the project listed below.
 
 ### Project: customer churn prediction and analysis
-             predict customer churn in the future using supervised learning models and analyze the top factors that influence user retention.
+
+### Project: Financial Data Anomaly Detection in Market Risk Analysis
+
+### Project: Movie Recommendation Service with Apache Spark
+
+# Any comments and suggestion will be appreciated.
