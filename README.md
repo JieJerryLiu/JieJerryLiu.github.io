@@ -21,4 +21,4 @@
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/JieJerryLiu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jie-liu-jerry/)
-[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://asset.cloudinary.com/dpp9aqiis/6d01c9c5cc9d346e42466e3625cf1213)
+[![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://asset.cloudinary.com/dpp9aqiis/8597b601b134b44d81290da1d279a569)
