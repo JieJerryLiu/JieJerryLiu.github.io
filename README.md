@@ -4,7 +4,7 @@
 
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiejerryliu&show_icons=true&theme=tokyonight)
 
-# Please find the code for projects listed below.
+## Please find the code for projects listed below.
 
 ### Component analysis: PCA analysis for wormtracking data
 
