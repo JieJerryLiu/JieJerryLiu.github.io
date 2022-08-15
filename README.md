@@ -1,5 +1,7 @@
 # JieJerryLiu.github.io
-# Please find code for projects listed below.
+
+# Hello, I am Jie Liu. 
+# Please find the code for projects listed below.
 
 ### Component analysis: PCA analysis for wormtracking data
 
