@@ -1,6 +1,6 @@
 # JieJerryLiu.github.io
 
-## Hello, I am Jie Liu. I'm a data scientist who employs multidisciplinary approaches to perform variable analysis, hypothesis testing, and mathmatical modelling. I have extensive experience in working with vast data sets to break down information and gather relevant businiess points. 
+#### Hello, I am Jie Liu. I'm a data scientist who employs multidisciplinary approaches to perform variable analysis, hypothesis testing, and mathmatical modelling. I have extensive experience in working with vast data sets to break down information and gather relevant businiess points. 
 
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiejerryliu&show_icons=true&theme=tokyonight)
 
