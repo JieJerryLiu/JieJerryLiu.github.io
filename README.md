@@ -4,19 +4,19 @@
 
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiejerryliu&show_icons=true&theme=tokyonight)
 
-## Please find the code for projects listed below.
+Please find the code for projects listed below.
 
-### Component analysis: PCA analysis for wormtracking data
+1: Component analysis: PCA analysis for wormtracking data
 
-### Customer churn prediction and analysis
+2: Customer churn prediction and analysis
 
-### Financial Data Anomaly Detection in Market Risk Analysis
+3: Financial Data Anomaly Detection in Market Risk Analysis
 
-### Movie Recommendation Service with Apache Spark
+4: Movie Recommendation Service with Apache Spark
 
-### Car price prediction
+6: Car price prediction
 
-# Any comments and suggestion will be appreciated.
+Any comments and suggestion will be appreciated.
 
 ### Get in touch
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/JieJerryLiu)
