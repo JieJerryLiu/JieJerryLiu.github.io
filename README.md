@@ -6,9 +6,9 @@
 
 Please find the code for projects listed below.
 
-1: Component analysis: PCA analysis for wormtracking data
+1: Customer churn prediction and analysis
 
-2: Customer churn prediction and analysis
+2: Components analysis: PCA analysis for wormtracking data
 
 3: Fraud Detection in Market Risk Analysis
 
