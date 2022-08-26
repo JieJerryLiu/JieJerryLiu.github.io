@@ -10,7 +10,7 @@ Please find the code for projects listed below.
 
 2: Customer churn prediction and analysis
 
-3: Financial Data Anomaly Detection in Market Risk Analysis
+3: Fraud Detection in Market Risk Analysis
 
 4: Movie Recommendation Service with Apache Spark
 
