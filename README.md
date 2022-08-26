@@ -16,6 +16,8 @@ Please find the code for projects listed below.
 
 6: Car price prediction
 
+7: Presentation for 3: Fraud detection
+
 Any comments and suggestion will be appreciated.
 
 ### Get in touch
